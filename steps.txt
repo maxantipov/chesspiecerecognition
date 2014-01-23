@@ -1,4 +1,4 @@
-Steps to develoto developp the project:
+Steps to develop the project:
 
 1- Upload the board
 2- Upload standard pieces
