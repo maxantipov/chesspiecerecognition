@@ -1,0 +1,6 @@
+
+1- Upload the board
+2- Upload standard pieces
+3- Recognice the board from a image
+4- Recognize the squares, empty and with piece ones
+5- Recognice each piece
