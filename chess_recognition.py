@@ -11,7 +11,7 @@ class Board:
         
     def getBoardFromImage(self):
         pngfileBoard = Image.open(self.board_path)
-        print pngfileBoard.size, pngfileBoard.format 
+        print pngfileBoard.size,pngfileBoard.format
         #now, read pixel by pyxel and get the coords.
         #...
         #...
